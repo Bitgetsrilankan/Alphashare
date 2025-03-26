@@ -149,12 +149,12 @@ Use /help to see available commands!
 ℹ️ **About {bot_name}**
 
 **Version:** `{version}`
-**Developer:** @adarsh2626
+**Developer:** @Cader_r
 **Language:** Python
 **Framework:** Pyrogram
 
-📢 **Updates:** @Thealphabotz
-🛠 **Support:** @adarsh2626
+📢 **Updates:** @LKFilmBotss
+🛠 **Support:** @Cader_r
 
 **Features:**
 • Secure File Sharing
@@ -165,7 +165,7 @@ Use /help to see available commands!
 • Enhanced Security
 • Automatic File Type Detection
 
-Made with ❤️ by @adarsh2626
+Made with ❤️ by @cader_r
 """
 
     FILE_TEXT = """
